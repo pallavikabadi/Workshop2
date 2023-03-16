@@ -15,11 +15,7 @@ public class PrintNonRepeatingElements {
             }
         }
     }
-    static void DistinctElement(int array[]){
-            for(int i=0;i<=array.length;i++){
-
-            }
-    }
+    
     public static void main(String[] args) {
         NonRepeating(new int [] {10, 20, 40, 30, 50, 20, 10, 20});
 
